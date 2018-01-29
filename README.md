@@ -1,2 +1,2 @@
 # datasciencecoursera
-This jjaask14's repository for the datascience assignments
+This is jjaask14's repository for the datascience assignments
